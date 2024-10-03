@@ -1,0 +1,6 @@
+C:\Users\selin\Downloads\M1Prog_cs1-main\M1Prog_cs1-main\02 rekenen\01 HowManyClicks\HowManyClicks\obj\Debug\net8.0-windows\HowManyClicks.Form1.resources
+C:\Users\selin\Downloads\M1Prog_cs1-main\M1Prog_cs1-main\02 rekenen\01 HowManyClicks\HowManyClicks\obj\Debug\net8.0-windows\HowManyClicks.csproj.GenerateResource.cache
+C:\Users\selin\Downloads\M1Prog_cs1-main\M1Prog_cs1-main\02 rekenen\01 HowManyClicks\HowManyClicks\obj\Debug\net8.0-windows\HowManyClicks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selin\Downloads\M1Prog_cs1-main\M1Prog_cs1-main\02 rekenen\01 HowManyClicks\HowManyClicks\obj\Debug\net8.0-windows\HowManyClicks.AssemblyInfoInputs.cache
+C:\Users\selin\Downloads\M1Prog_cs1-main\M1Prog_cs1-main\02 rekenen\01 HowManyClicks\HowManyClicks\obj\Debug\net8.0-windows\HowManyClicks.AssemblyInfo.cs
+C:\Users\selin\Downloads\M1Prog_cs1-main\M1Prog_cs1-main\02 rekenen\01 HowManyClicks\HowManyClicks\obj\Debug\net8.0-windows\HowManyClicks.csproj.CoreCompileInputs.cache
